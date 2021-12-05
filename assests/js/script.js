@@ -45,7 +45,7 @@ function(){
         $("#favicon").attr("href","assests/images/favicon.png");
     }
     else {
-        document.title = "Come Back To Portfolio";
+        document.title = "Thanks For Your Time..";
         $("#favicon").attr("href","assests/images/favhand.png");
     }
 });
@@ -53,7 +53,7 @@ function(){
 
 // <!-- typed js effect starts -->
     var typed = new Typed(".typing-text", {
-        strings: ["front end development", "web designing", "android development", "web development"],
+        strings: ["Full Stack Development"],
         loop: true,
         typeSpeed: 50,
 		backSpeed: 25,
