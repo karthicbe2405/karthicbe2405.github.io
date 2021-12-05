@@ -69,7 +69,7 @@ function(){
         $("#favicon").attr("href","/assests/images/favicon.png");
     }
     else {
-        document.title = "Thanks For Your Time";
+        document.title = "Thanks For Your Time..";
         $("#favicon").attr("href","/assests/images/favhand.png");
     }
 });
